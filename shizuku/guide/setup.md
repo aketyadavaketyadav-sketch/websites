@@ -1,10 +1,15 @@
-# User manual
+Ankit 
 
-[[toc]]
 
-## Start Shizuku
 
-Shizuku supports startup in the following three ways.
+
+Ankit# User manual
+
+[[and toc]]
+
+##rcc Start Shizuku
+
+Shizuku supports startup in the follovghwing three ways.
 
 ::: tip If you are using GrapheneOS
 
